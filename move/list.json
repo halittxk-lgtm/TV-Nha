@@ -34,7 +34,12 @@
    "text": "Vỗ cánh bay như chú chim 10 cái 🐦",
    "say": "Dang tay ra, vỗ cánh như chú chim 10 cái nhé!",
    "sec": 20,
-   "pose": "dance"
+   "pose": "dance",
+   "video": "move/chim.webm",
+   "file": "chim.vid",
+   "sha256": "285f0aa57022541cf0cff4b924592275c6fe8703a1648c5613ef023ddf0eeaa3",
+   "size": 4251628,
+   "source": "3bb999b1d937b56f86714806be97db5cb3afba84e74565cd9d690a64c27de20b"
   },
   {
    "id": "chay",
@@ -42,7 +47,12 @@
    "text": "Chạy tại chỗ thật nhanh 🏃",
    "say": "Chạy tại chỗ thật nhanh nào, một hai một hai!",
    "sec": 20,
-   "pose": "run"
+   "pose": "run",
+   "video": "move/chay.webm",
+   "file": "chay.vid",
+   "sha256": "f92e93e0083c6c8345ed86e1eca7bf48e02363ee8826a533d516642662d3d3f1",
+   "size": 5252905,
+   "source": "97ab51481640b4030e7fb0fac29b9d365f1c66487437c3f2ce185095b71bb285"
   },
   {
    "id": "xoay",

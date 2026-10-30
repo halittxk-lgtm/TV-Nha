@@ -1,0 +1,136 @@
+{
+ "format": 2,
+ "note": "Hoạt động vận động và nghỉ mắt của TV Nhà. TV tự tải mỗi 12 giờ.",
+ "items": [
+  {
+   "id": "ech",
+   "kind": "move",
+   "text": "Nhảy 5 cái như con ếch 🐸",
+   "say": "Mình cùng nhảy 5 cái như con ếch nào! Ộp ộp!",
+   "sec": 20,
+   "pose": "dance",
+   "video": "move/ech.webm",
+   "file": "ech.vid",
+   "sha256": "9f3a6dcde30b8e4e14bea6bd652deeccd1ff5653d1a1492f43b1ea3fb9d5b2f2",
+   "size": 2175933,
+   "source": "a0ec0d30125865eb71c1738c2a5d673d9d5089b7cfc072f2d324884d81d6cac3"
+  },
+  {
+   "id": "voi",
+   "kind": "move",
+   "text": "Vươn tay thật cao như hươu cao cổ 🦒",
+   "say": "Đứng dậy, vươn tay thật cao như hươu cao cổ nào!",
+   "sec": 15,
+   "pose": "joy",
+   "video": "move/voi.webm",
+   "file": "voi.vid",
+   "sha256": "cf82e3427f95daf89442bdf7b7d9fa8f4b9f0042084690bd6e84e1301dfd8773",
+   "size": 3394758,
+   "source": "cdf6fa97f4d5014d8246c69b5eebbd04d9634822c7d8c5081f6bc5a66fc0b7ee"
+  },
+  {
+   "id": "chim",
+   "kind": "move",
+   "text": "Vỗ cánh bay như chú chim 10 cái 🐦",
+   "say": "Dang tay ra, vỗ cánh như chú chim 10 cái nhé!",
+   "sec": 20,
+   "pose": "dance"
+  },
+  {
+   "id": "chay",
+   "kind": "move",
+   "text": "Chạy tại chỗ thật nhanh 🏃",
+   "say": "Chạy tại chỗ thật nhanh nào, một hai một hai!",
+   "sec": 20,
+   "pose": "run"
+  },
+  {
+   "id": "xoay",
+   "kind": "move",
+   "text": "Xoay vai 5 vòng, rồi xoay cổ thật chậm 🙆",
+   "say": "Xoay vai 5 vòng, rồi xoay cổ thật chậm nhé.",
+   "sec": 20,
+   "pose": "hello"
+  },
+  {
+   "id": "caykeo",
+   "kind": "move",
+   "text": "Đứng một chân như con cò, đếm tới 10 🦩",
+   "say": "Đứng một chân như con cò, mình đếm tới 10 nhé!",
+   "sec": 15,
+   "pose": "think"
+  },
+  {
+   "id": "voitay",
+   "kind": "move",
+   "text": "Vỗ tay 10 cái thật kêu 👏",
+   "say": "Vỗ tay 10 cái thật kêu nào!",
+   "sec": 12,
+   "pose": "dance"
+  },
+  {
+   "id": "nhinxa",
+   "kind": "eyes",
+   "text": "Nhìn ra cửa sổ, tìm 3 thứ màu xanh 🌳",
+   "say": "Mắt mình nghỉ nhé! Nhìn ra cửa sổ thật xa, tìm 3 thứ màu xanh.",
+   "sec": 20,
+   "pose": "think"
+  },
+  {
+   "id": "chopmat",
+   "kind": "eyes",
+   "text": "Nhắm mắt lại, đếm chậm tới 10 😌",
+   "say": "Nhắm mắt lại thật nhẹ nhàng, mình đếm chậm tới 10 nhé.",
+   "sec": 15,
+   "pose": "sleep"
+  },
+  {
+   "id": "chop",
+   "kind": "eyes",
+   "text": "Chớp mắt thật nhanh 10 cái 👀",
+   "say": "Chớp mắt thật nhanh 10 cái nào!",
+   "sec": 12,
+   "pose": "surprised"
+  },
+  {
+   "id": "tim",
+   "kind": "eyes",
+   "text": "Tìm trong phòng 3 thứ màu đỏ 🔴",
+   "say": "Nhìn quanh phòng, tìm 3 thứ màu đỏ nhé!",
+   "sec": 20,
+   "pose": "think"
+  },
+  {
+   "id": "tho",
+   "kind": "eyes",
+   "text": "Hít thật sâu… thở ra thật chậm, 3 lần 🌬️",
+   "say": "Hít thật sâu, rồi thở ra thật chậm. Mình làm 3 lần nhé.",
+   "sec": 20,
+   "pose": "love"
+  },
+  {
+   "id": "chamchan",
+   "kind": "move",
+   "text": "Cúi xuống chạm ngón chân 5 lần 🦶",
+   "say": "Cúi xuống chạm ngón chân 5 lần nào!",
+   "sec": 20,
+   "pose": "joy"
+  },
+  {
+   "id": "cay",
+   "kind": "move",
+   "text": "Làm cây đung đưa trong gió 🌴",
+   "say": "Giơ hai tay lên, đung đưa như cây trong gió nào!",
+   "sec": 15,
+   "pose": "dance"
+  },
+  {
+   "id": "mathe",
+   "kind": "move",
+   "text": "Làm mặt thật hài hước 🤪",
+   "say": "Làm một khuôn mặt thật hài hước nào!",
+   "sec": 10,
+   "pose": "surprised"
+  }
+ ]
+}

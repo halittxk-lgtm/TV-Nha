@@ -1,0 +1,24 @@
+{
+  "app": {
+    "package": "com.vietkit.tvremote",
+    "versionCode": 108,
+    "versionName": "2.9",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.9.apk",
+    "size": 13983447,
+    "sha256": "77f6836882e057d18a020fae17683ae9b36dfbcd89f94251c81d8e351ce7a982"
+  },
+  "tv": {
+    "package": "com.vietkit.tvhome",
+    "versionCode": 44944,
+    "versionName": "b44944",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.9.apk",
+    "size": 929234,
+    "sha256": "9c1e862284a120ed82f6b45a33db5ae2394af281cb2323707366df0fe53cf8be"
+  },
+  "notes": [
+    "Sửa lỗi bấm remote một lần mà ô chọn nhảy nhiều ô.",
+    "Chọn chế độ mặc định khi bật TV (trẻ em hoặc bố mẹ) và thời gian bố mẹ xem chỉ chọn một lần (Cài đặt → Giờ xem).",
+    "Tự cập nhật: điện thoại tự tải bản mới qua Wi-Fi, rồi tự gửi bản mới cho TV; TV hỏi \"Cài đặt?\" khi không ai xem.",
+    "Tạm bỏ Góc học để launcher nhẹ và mượt hơn."
+  ]
+}

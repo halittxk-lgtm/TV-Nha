@@ -1,25 +1,24 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 113,
-    "versionName": "2.9.5",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.9.5.apk",
-    "size": 14139319,
-    "sha256": "3dedfc88a3875c642c547f8c242b30832ef9e5828f95009367461eb6bf898e0f"
+    "versionCode": 118,
+    "versionName": "2.6",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.apk",
+    "size": 14139175,
+    "sha256": "742210a24a5f5d38fb1dd5d04f31cf639d730c6a6748c77c42cb0af82329ace4"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
     "versionCode": 44960,
     "versionName": "b44960",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.9.5.apk",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.apk",
     "size": 937429,
     "sha256": "3575513d4187351f665443f91c5e52bc44e0640c044add5d8ee66845e0272e15"
   },
   "notes": [
+    "Cài được bình thường trở lại: app không còn tự cài gì, nên Google Play Protect không chặn nữa. Có bản mới, app báo; bấm \"Tải bản mới\" để tải về rồi cài.",
     "Bố cục Tự do: đặt ứng dụng, đồng hồ, thời tiết, ảnh, chữ… ở bất cứ chỗ nào trên TV; sắp xếp bằng kéo thả trong Giao diện → Màn hình tự do.",
-    "Mỗi ô một hình (tròn, bo góc, bo mềm, vuông), một kiểu (biểu tượng, thẻ rộng, nút tròn), một cỡ và một hiệu ứng riêng; thêm hiệu ứng bên trong khung: icon nảy, lắc, xoay, thở, đèn chạy quanh viền, lấp lánh.",
-    "Màn hình chính mượt hơn trên TV yếu (chuyển ô giật từ khoảng 50% xuống khoảng 13% khung hình); bộ đọc giọng chỉ chạy khi cần, trả lại khoảng 110 MB RAM.",
-    "TV Nhà tự quay lại ngay khi bị trình dọn dẹp của TV (TCL) tắt; trước đây có lúc màn hình gốc của TV hiện ra cả nửa tiếng.",
-    "Sửa lỗi bấm remote một lần mà ô chọn nhảy nhiều ô; chọn chế độ mặc định khi bật TV; danh sách TV mới từ CleanYourTV; tự cập nhật qua điện thoại."
+    "Mỗi ô một hình, một kiểu, một cỡ và một hiệu ứng riêng; hiệu ứng mới bên trong khung: icon nảy, lắc, xoay, thở, đèn chạy quanh viền, lấp lánh.",
+    "Màn hình chính mượt hơn trên TV yếu; TV Nhà tự quay lại ngay khi bị trình dọn dẹp của TV tắt; sửa lỗi bấm remote một lần mà ô nhảy nhiều ô."
   ]
 }

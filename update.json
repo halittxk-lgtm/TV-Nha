@@ -1,24 +1,24 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 118,
-    "versionName": "2.6",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.apk",
-    "size": 14139175,
-    "sha256": "742210a24a5f5d38fb1dd5d04f31cf639d730c6a6748c77c42cb0af82329ace4"
+    "versionCode": 120,
+    "versionName": "2.6.2",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.2.apk",
+    "size": 14229827,
+    "sha256": "65bd6efd9482bb2b466b13455fcd24be8a6a90ebb6fecc6936c3f8cefeb543a2"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
-    "versionCode": 44960,
-    "versionName": "b44960",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.apk",
-    "size": 937429,
-    "sha256": "3575513d4187351f665443f91c5e52bc44e0640c044add5d8ee66845e0272e15"
+    "versionCode": 45023,
+    "versionName": "b45023",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.2.apk",
+    "size": 962003,
+    "sha256": "6e26b4b4cb3c18e0cfcb47de2a2d41eac871162baacca7db225bef43249ce611"
   },
   "notes": [
-    "Cài được bình thường trở lại: app không còn tự cài gì, nên Google Play Protect không chặn nữa. Có bản mới, app báo; bấm \"Tải bản mới\" để tải về rồi cài.",
-    "Bố cục Tự do: đặt ứng dụng, đồng hồ, thời tiết, ảnh, chữ… ở bất cứ chỗ nào trên TV; sắp xếp bằng kéo thả trong Giao diện → Màn hình tự do.",
-    "Mỗi ô một hình, một kiểu, một cỡ và một hiệu ứng riêng; hiệu ứng mới bên trong khung: icon nảy, lắc, xoay, thở, đèn chạy quanh viền, lấp lánh.",
-    "Màn hình chính mượt hơn trên TV yếu; TV Nhà tự quay lại ngay khi bị trình dọn dẹp của TV tắt; sửa lỗi bấm remote một lần mà ô nhảy nhiều ô."
+    "Gọn hơn: tab Nhà còn một dòng tóm tắt luật; Giao diện là một danh sách rõ, Kho theme ở trang riêng, ít dùng thì vào Nâng cao.",
+    "17 tiện ích dùng hằng ngày, đẹp và chỉnh được từng cái: kiểu khung, màu, phông, cỡ chữ, ẩn hiện từng dòng. Thêm giá vàng SJC, tỷ giá Vietcombank, video mới từ kênh bố mẹ chọn.",
+    "Màn hình tự do đặt được mọi thứ: lối tắt kênh, video YouTube, kênh VTV, trang web (web phim chỉ hiện ở chế độ bố mẹ), từng nút cài đặt, ảnh hoặc logo của nhà mình.",
+    "Hiệu ứng trên ảnh nền (hoa mai, tuyết, đom đóm…), 12 kiểu đồng hồ, thêm phông chữ; thời tiết theo đúng nơi nhập trên điện thoại."
   ]
 }

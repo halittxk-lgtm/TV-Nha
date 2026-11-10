@@ -1,24 +1,24 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 120,
-    "versionName": "2.6.2",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.2.apk",
-    "size": 14229827,
-    "sha256": "65bd6efd9482bb2b466b13455fcd24be8a6a90ebb6fecc6936c3f8cefeb543a2"
+    "versionCode": 122,
+    "versionName": "2.6.3",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.3.apk",
+    "size": 14300111,
+    "sha256": "6a1357d9890b03966d16437dd5a12409d41bc3028849aa292f8c0d379b652cfe"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
-    "versionCode": 45023,
-    "versionName": "b45023",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.2.apk",
-    "size": 962003,
-    "sha256": "6e26b4b4cb3c18e0cfcb47de2a2d41eac871162baacca7db225bef43249ce611"
+    "versionCode": 45090,
+    "versionName": "b45090",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.3.apk",
+    "size": 966100,
+    "sha256": "f926e3429ca5bf8e13faf4c83cebbf5d6bea41015c1ab737aa2821ddc7e85804"
   },
   "notes": [
-    "Gọn hơn: tab Nhà còn một dòng tóm tắt luật; Giao diện là một danh sách rõ, Kho theme ở trang riêng, ít dùng thì vào Nâng cao.",
-    "17 tiện ích dùng hằng ngày, đẹp và chỉnh được từng cái: kiểu khung, màu, phông, cỡ chữ, ẩn hiện từng dòng. Thêm giá vàng SJC, tỷ giá Vietcombank, video mới từ kênh bố mẹ chọn.",
-    "Màn hình tự do đặt được mọi thứ: lối tắt kênh, video YouTube, kênh VTV, trang web (web phim chỉ hiện ở chế độ bố mẹ), từng nút cài đặt, ảnh hoặc logo của nhà mình.",
-    "Hiệu ứng trên ảnh nền (hoa mai, tuyết, đom đóm…), 12 kiểu đồng hồ, thêm phông chữ; thời tiết theo đúng nơi nhập trên điện thoại."
+    "Cập nhật ngay trong app: bấm \"Cập nhật\", app tự tải bản mới và kiểm tra đúng bản gốc, rồi bạn bấm vào tệp để cài. Không còn mở trình duyệt.",
+    "Màn hình tự do: tự chọn hình, kiểu, màu cho từng ô và icon; mảng nền trang trí; khung sau mỗi khối; chữ đổi phông, màu chuyển sắc, phát sáng.",
+    "Bảng màu chung: đổi một chỗ là cả màn hình đổi theo. 10 mẫu khởi đầu và nút \"Biến tấu\" cho ra kiểu mới mỗi lần bấm.",
+    "Lưu theme, gửi mã (có mã QR) cho nhà khác, nhập mã nhà khác gửi; mã không mang theo ảnh của nhà mình."
   ]
 }

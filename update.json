@@ -1,22 +1,23 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 123,
-    "versionName": "2.6.4",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.4.apk",
-    "size": 14317355,
-    "sha256": "ff2f14bc1c81f9b6187ebdaa92a72ed6465e243ed45c948924228f12db45a205"
+    "versionCode": 124,
+    "versionName": "2.6.5",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.5.apk",
+    "size": 14353475,
+    "sha256": "27ec9bfb82bce792b2df3655cbd0a1ba413b46073f502a885d6d1385b64b8f56"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
-    "versionCode": 45101,
-    "versionName": "b45101",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.4.apk",
+    "versionCode": 45110,
+    "versionName": "b45110",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.5.apk",
     "size": 970196,
-    "sha256": "6038078bf771e9cb3583cfa58c5ed866d5c1903cd173717d799c1f1ae70a4f28"
+    "sha256": "941fab0292ea50b63957a717659e8589a3e34846846bf92d3d04c456d9bc120d"
   },
   "notes": [
-    "Chế độ trẻ em là chế độ mặc định: cài mới, tắt TV, rút điện hay khởi động lại đều về chế độ trẻ em. Muốn TV bật lên ở chế độ bố mẹ thì chọn trong Giờ xem → Khi bật TV.",
-    "Cập nhật gọn hơn: bấm \"Cài đặt\" ngay trong app. Lần đầu bật \"Cho phép từ nguồn này\" cho TV Nhà, từ lần sau bấm là cài."
+    "Nhật ký từng phút: mọi lúc TV bật, xem gì, kênh nào, từ mấy giờ đến mấy giờ, bao nhiêu phút, chế độ trẻ em hay bố mẹ, lúc nào bị chặn. TV giữ 31 ngày.",
+    "Theo kênh và ứng dụng: theo ngày, tuần, tháng; từng kênh xem lúc nào, những nội dung gì; xem nhiều nhất vào giờ nào.",
+    "Công tắc Chặn video Shorts ngay ở trang Nhà."
   ]
 }

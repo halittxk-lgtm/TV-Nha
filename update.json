@@ -1,21 +1,22 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 128,
-    "versionName": "2.6.9",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.9.apk",
-    "size": 14392831,
-    "sha256": "3b542f8fd22f0f9c1dadf3e15d3ad11c916ecb59ffce57a666a86bce61ce5ec6"
+    "versionCode": 129,
+    "versionName": "2.6.10",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.10.apk",
+    "size": 14407687,
+    "sha256": "e5d1928c84a8a9f279366964bc1298d0a297d2566009812a46d8c48bd3ec7e6d"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
-    "versionCode": 45124,
-    "versionName": "b45124",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.9.apk",
-    "size": 978387,
-    "sha256": "766bcacd9738a0ecb8b0cef804e23adc903d3f9c24c8f70ddf1ece7379fedd9f"
+    "versionCode": 45146,
+    "versionName": "b45146",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.10.apk",
+    "size": 994844,
+    "sha256": "a0f9999bfe7881cbe790df9244b6f9bdf5ad8107554a389ec4317aafcc0e253b"
   },
   "notes": [
-    "Sửa lỗi cập nhật TV đứng mãi ở \"Đang gửi lên TV…\": lần gửi hỏng thì app tự gửi lại sau 1 phút, hoặc bấm \"Gửi lại lên TV\"."
+    "Xem sạch: ô lối tắt tới trang xem phim mở bằng TV Nhà, chặn quảng cáo, cửa sổ bật lên và trang lạ; phim phát toàn màn hình bằng trình phát của TV, bỏ đoạn quảng cáo chèn trong video, nhớ chỗ đang xem.",
+    "Màn hình tự do báo rõ khi TV đang ở chế độ trẻ em: ô 🔒 chỉ hiện ở chế độ bố mẹ."
   ]
 }

@@ -1,23 +1,23 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 124,
-    "versionName": "2.6.5",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.5.apk",
-    "size": 14353475,
-    "sha256": "27ec9bfb82bce792b2df3655cbd0a1ba413b46073f502a885d6d1385b64b8f56"
+    "versionCode": 125,
+    "versionName": "2.6.6",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.6.apk",
+    "size": 14392975,
+    "sha256": "05507a8c72ca4adb37cc50295c8ce75b79283cafb471ba561ce6777c609a336f"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
-    "versionCode": 45110,
-    "versionName": "b45110",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.5.apk",
-    "size": 970196,
-    "sha256": "941fab0292ea50b63957a717659e8589a3e34846846bf92d3d04c456d9bc120d"
+    "versionCode": 45120,
+    "versionName": "b45120",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.6.apk",
+    "size": 978387,
+    "sha256": "f2bfa831ad67afcaf96db73c21a2e2d05f604f83cde52e1bd289917cbedb25de"
   },
   "notes": [
-    "Nhật ký từng phút: mọi lúc TV bật, xem gì, kênh nào, từ mấy giờ đến mấy giờ, bao nhiêu phút, chế độ trẻ em hay bố mẹ, lúc nào bị chặn. TV giữ 31 ngày.",
-    "Theo kênh và ứng dụng: theo ngày, tuần, tháng; từng kênh xem lúc nào, những nội dung gì; xem nhiều nhất vào giờ nào.",
-    "Công tắc Chặn video Shorts ngay ở trang Nhà."
+    "Bố cục không giới hạn: mỗi hàng xếp thành một hàng ngang, lưới, cột dọc hoặc Dock kiểu Mac; đặt một hàng bao nhiêu lần cũng được; tối đa 99 khối.",
+    "Khối mới: ảnh lớn đổi theo ô đang chọn; nền riêng cho từng hàng khi bấm vào; chép cả bố cục của theme có sẵn sang Màn hình tự do.",
+    "Kiểu dáng cho mọi khối: khung kính, màu, chuyển sắc hay ảnh; hình bo góc, viên thuốc, lục giác…; viền nét đứt, phát sáng; bóng màu; hiệu ứng khi chọn và khi hiện ra; sao chép và lưu kiểu."
   ]
 }

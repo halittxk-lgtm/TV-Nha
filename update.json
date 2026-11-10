@@ -1,24 +1,22 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 122,
-    "versionName": "2.6.3",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.3.apk",
-    "size": 14300111,
-    "sha256": "6a1357d9890b03966d16437dd5a12409d41bc3028849aa292f8c0d379b652cfe"
+    "versionCode": 123,
+    "versionName": "2.6.4",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.4.apk",
+    "size": 14317355,
+    "sha256": "ff2f14bc1c81f9b6187ebdaa92a72ed6465e243ed45c948924228f12db45a205"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
-    "versionCode": 45090,
-    "versionName": "b45090",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.3.apk",
-    "size": 966100,
-    "sha256": "f926e3429ca5bf8e13faf4c83cebbf5d6bea41015c1ab737aa2821ddc7e85804"
+    "versionCode": 45101,
+    "versionName": "b45101",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.4.apk",
+    "size": 970196,
+    "sha256": "6038078bf771e9cb3583cfa58c5ed866d5c1903cd173717d799c1f1ae70a4f28"
   },
   "notes": [
-    "Cập nhật ngay trong app: bấm \"Cập nhật\", app tự tải bản mới và kiểm tra đúng bản gốc, rồi bạn bấm vào tệp để cài. Không còn mở trình duyệt.",
-    "Màn hình tự do: tự chọn hình, kiểu, màu cho từng ô và icon; mảng nền trang trí; khung sau mỗi khối; chữ đổi phông, màu chuyển sắc, phát sáng.",
-    "Bảng màu chung: đổi một chỗ là cả màn hình đổi theo. 10 mẫu khởi đầu và nút \"Biến tấu\" cho ra kiểu mới mỗi lần bấm.",
-    "Lưu theme, gửi mã (có mã QR) cho nhà khác, nhập mã nhà khác gửi; mã không mang theo ảnh của nhà mình."
+    "Chế độ trẻ em là chế độ mặc định: cài mới, tắt TV, rút điện hay khởi động lại đều về chế độ trẻ em. Muốn TV bật lên ở chế độ bố mẹ thì chọn trong Giờ xem → Khi bật TV.",
+    "Cập nhật gọn hơn: bấm \"Cài đặt\" ngay trong app. Lần đầu bật \"Cho phép từ nguồn này\" cho TV Nhà, từ lần sau bấm là cài."
   ]
 }

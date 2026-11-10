@@ -1,22 +1,21 @@
 {
   "app": {
     "package": "com.vietkit.tvremote",
-    "versionCode": 126,
-    "versionName": "2.6.7",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.7.apk",
-    "size": 14392975,
-    "sha256": "60b7f1843f78bfd9db37730cc84ca28c3dc63cd125673bf02becb3e0ea31acf1"
+    "versionCode": 127,
+    "versionName": "2.6.8",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/TVNha-2.6.8.apk",
+    "size": 14392835,
+    "sha256": "99606486f6a2587fdc8406701d33feb9177ce647c4e599d636930bbb1d2c2871"
   },
   "tv": {
     "package": "com.vietkit.tvhome",
-    "versionCode": 45120,
-    "versionName": "b45120",
-    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.7.apk",
+    "versionCode": 45124,
+    "versionName": "b45124",
+    "url": "https://raw.githubusercontent.com/halittxk-lgtm/TV-Nha/main/apk/tvnhatv-2.6.8.apk",
     "size": 978387,
-    "sha256": "f2bfa831ad67afcaf96db73c21a2e2d05f604f83cde52e1bd289917cbedb25de"
+    "sha256": "766bcacd9738a0ecb8b0cef804e23adc903d3f9c24c8f70ddf1ece7379fedd9f"
   },
   "notes": [
-    "Chọn một theme trong Kho rồi bấm \"Tuỳ biến tự do theme này\": Màn hình tự do mở ra với chính theme đó, đúng cách sắp xếp và màu sắc, rồi kéo thả, đổi kiểu dáng tuỳ ý.",
-    "Bấm Màn hình tự do cũng bắt đầu từ đúng theme đang chạy trên TV, không còn là các hàng mặc định."
+    "TV vừa cài TV Nhà ở chế độ bố mẹ đến lần tắt đầu tiên, để còn vào Cài đặt của TV khi cần; từ lần bật sau TV về đúng chế độ đã chọn trong Giờ xem → Khi bật TV."
   ]
 }
